@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Documents
+Comment=My documents
+Icon=folder-documents
+Type=Link
+URL=/home/zerotwo/Documents
+OnlyShowIn=KDE

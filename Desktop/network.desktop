@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Network
+Comment=network-workgroup
+Icon=network-workgroup
+Type=Link
+URL=remote:/
+OnlyShowIn=KDE
